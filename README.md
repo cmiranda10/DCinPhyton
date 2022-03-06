@@ -1,4 +1,4 @@
-# DCinPhyton
+# DCinPython
 Practicando la programacion
 
 ![Link an image.](/GH1.png)
